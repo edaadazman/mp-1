@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Outfit', serif;
-    margin: 0 150px;
+    margin: calc(100px + 10vw);
     padding: 0;
     display: flex;
     flex-direction: column;
